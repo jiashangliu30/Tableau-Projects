@@ -8,3 +8,13 @@ Linear Regression: Real Estate House Prices Analysis & Prediction
 LDA: Topic Modeling on News
 Computer Vision
 Image Classification on CIFAR-100 with CNN
+
+
+<details><summary><strong>Check out other repos</strong></summary> 
+<br>
+
+  - [Data Science](https://github.com/jiashangliu30/Data-Science)
+  - [Product Analysis](https://github.com/jiashangliu30/Product-Analysis)
+
+
+</details>
