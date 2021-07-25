@@ -1,8 +1,15 @@
 # Tableau Projects
 
 ## Index
-The repository contains my Tableau projects in a quick Glance. Please go to my [Tableau Public](https://public.tableau.com/app/profile/jiashang.liu) for interactive dashboards. The project directory is listed below:
-- [Electric Vehicles Sales and Infrastructure Outlook in the US](https://user-images.githubusercontent.com/77212888/126910994-7ea69d43-3af2-4c08-a106-551177e1495d.png)
+The repository contains my Tableau projects in a quick Glance. Please go to my [Tableau Public](https://public.tableau.com/app/profile/jiashang.liu) for interactive dashboards or download the packaged workbook file. 
+
+The project directory is listed below:
+- [Electric Vehicles Sales and Infrastructure Outlook in the US](https://public.tableau.com/app/profile/jiashang.liu/viz/ElectricVehiclesSalesadInfrastructureoutlookintheUS/Dashboard1)
+- [Temperature Anomalies Comparison Report](https://public.tableau.com/app/profile/jiashang.liu/viz/Book1_15803507890450/Dashboard1)
+- [Natural Amenities In State Level and Country Level](https://public.tableau.com/app/profile/jiashang.liu/viz/project4_15845684005950/Dashboard1)
+- [Landfill & recycling Status and trend in the US](https://public.tableau.com/app/profile/jiashang.liu/viz/LandfillrecyclingStatusandtrendintheUS/Dashboard1)
+- [Energy Generation in Indiana](https://public.tableau.com/app/profile/jiashang.liu/viz/project3_15825978098480/Dashboard1)
+- [Landuse in the US](https://public.tableau.com/app/profile/jiashang.liu/viz/project5LanduseintheUS/Dashboard1)
 
 ## Electric Vehicles Sales and Infrastructure Outlook in the US
 ![Dashboard 1](https://user-images.githubusercontent.com/77212888/126910994-7ea69d43-3af2-4c08-a106-551177e1495d.png)
